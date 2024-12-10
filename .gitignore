@@ -1,2 +1,4 @@
 out/
 arch/arm64/boot/Image
+Makefile
+build_kernel.sh
